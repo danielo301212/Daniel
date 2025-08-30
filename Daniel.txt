@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="Daniel" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/knhervnq9cmiu2hfq1ual/kodi-DANIELA.zip?rlkey=4x16ah6k0awi9vz99ohitk60d&st=1ok1zjv6&dl=1"
+url="https://www.dropbox.com/scl/fi/j15yr4quylb8wo1korvct/KOIDANIEL-30082025.zip?rlkey=4w3iu1grik249bidy138hy50i&st=24jcvurt&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
