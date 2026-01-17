@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="Daniel" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/9binu2gld0yrew0jvc2nl/czo-gi12012026.zip?rlkey=rl2x217mced84d847wzf1egk3&st=js2gujj4&dl=1"
+url="https://www.dropbox.com/scl/fi/0aljym404zn1sj1tt8mt8/Bo-e-Narodzenie.m3u?rlkey=hr2zqqc7pv6p2qqoukqyfivay&st=2g1goiix&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
